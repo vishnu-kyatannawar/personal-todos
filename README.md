@@ -24,3 +24,10 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 - [ ] Link it to github
 
 ...more to come in future
+
+## Website work
+
+- [ ] Base examples
+  - https://sebkay.com
+- [ ] Create repo
+- [ ] Might try to use react JS for front end 
