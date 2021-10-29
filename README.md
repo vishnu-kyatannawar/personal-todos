@@ -10,4 +10,4 @@ Here I am documenting the goals which I want to achieve.
 - [ ] Update redirections for portfolio and blog
 - [ ] Install lets encrypt SSL
 
----more to come in future
+...more to come in future
