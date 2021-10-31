@@ -6,8 +6,8 @@ Here I am documenting the goals which I want to achieve.
 - [x] Buy a server
 - [x] Setup Wordpress
 - [x] Setup DNS redirection
-- [x] Setup portfolio (dummy)
-- [x] Update redirections for portfolio and blog
+- [x] Setup homepage (dummy)
+- [x] Update redirections for homepage and blog
 - [x] Install lets encrypt SSL
 
 You can find website setup action logs [here](Website-logs)
