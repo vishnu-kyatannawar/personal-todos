@@ -15,11 +15,11 @@ You can find website setup action logs [here](Website-logs)
 You can find wordpress setup action logs [here](Wordpress-logs)
 
 ## Github Goals
-- [ ] Update role
-- [ ] Update profile pic
-- [ ] Update username to vishnu-kyatannawar
-- [ ] Clean up unused repo
-- [ ] Link my website
+- [x] Update role
+- [x] Update profile pic
+- [x] Update username to vishnu-kyatannawar
+- [x] Clean up unused repo
+- [x] Link my website
 - [ ] Create twitter account
 - [ ] Link it to github
 
