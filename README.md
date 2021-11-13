@@ -31,3 +31,16 @@ You can find wordpress setup action logs [here](Wordpress-logs)
   - https://sebkay.com
 - [ ] Create repo
 - [ ] Might try to use react JS for front end 
+
+## Github Home page goals
+
+- [ ] Create a repo same as username
+- [ ] Add a sample Readme
+- [ ] Add Introduction
+- [ ] Add important links
+- [ ] Add github stats count
+- [ ] Add github stats for language
+- [ ] Add workflow to get latest blogs from mywebsite
+
+
+
