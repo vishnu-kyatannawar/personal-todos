@@ -34,13 +34,14 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 
 ## Github Home page goals
 
-- [ ] Create a repo same as username
-- [ ] Add a sample Readme
-- [ ] Add Introduction
-- [ ] Add important links
-- [ ] Add github stats count
-- [ ] Add github stats for language
-- [ ] Add workflow to get latest blogs from mywebsite
+- [x] Create a repo same as username
+- [x] Add a sample Readme
+- [x] Add Introduction
+- [x] Add important links
+- [x] Add github stats count
+- [x] Add github stats for language
+- [ ] Add workflow to get latest blogs from my website
+- [ ] Later Add workflow to get other cool stats
 
 
 
