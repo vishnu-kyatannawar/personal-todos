@@ -25,12 +25,13 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 
 ...more to come in future
 
-## Website work
+## Website work [Heading Tag](https://headingtag.com)
 
-- [ ] Base examples
-  - https://sebkay.com
 - [ ] Create repo
-- [ ] Might try to use react JS for front end 
+- [ ] Find some basic UI framework for CSS
+- [ ] Ensure it has mobile compatibility
+- [ ] Use reactJS for the portal just for the purpose of learning
+- [ ] Add README for the website page
 
 ## Github Home page goals
 
