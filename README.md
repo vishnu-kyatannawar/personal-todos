@@ -42,5 +42,14 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 - [ ] Add workflow to get latest blogs from my website
 - [ ] Later Add workflow to get other cool stats
 
+## Setup Linode Server
+
+Moving from Vultr to linode, the github runners were not running properly on vultr ubuntu server.
+I was not able to find more info in logs either.
+
+I tested the same setup on linode and it worked fine. I decided to move to linode so that I can deploy website automatically using GitHub actions.
+
+- [ ] Spin a linode server
+- [ ] TODO...
 
 
