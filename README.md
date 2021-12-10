@@ -3,7 +3,7 @@ Here I am documenting the goals which I want to achieve.
 
 ## Website Goals (Vultr)
 - [x] Buy a domain
-- [x] Buy a server
+- [x] Buy a server Vultr
 - [x] Setup Wordpress
 - [x] Setup DNS redirection
 - [x] Setup homepage (dummy)
@@ -20,8 +20,6 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 - [x] Update username to vishnu-kyatannawar
 - [x] Clean up unused repo
 - [x] Link my website
-- [ ] Create twitter account
-- [ ] Link it to github
 
 ...more to come in future
 
