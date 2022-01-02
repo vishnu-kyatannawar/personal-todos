@@ -25,10 +25,9 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 
 ## Website work [Heading Tag](https://headingtag.com)
 
-- [ ] Create repo
-- [ ] Find some basic UI framework for CSS
-- [ ] Ensure it has mobile compatibility
-- [ ] Use reactJS for the portal just for the purpose of learning
+- [x] Create repo
+- [x] Find some basic UI framework for CSS
+- [x] Ensure it has mobile compatibility
 - [ ] Add README for the website page
 
 ## Github Home page goals
@@ -39,8 +38,7 @@ You can find wordpress setup action logs [here](Wordpress-logs)
 - [x] Add important links
 - [x] Add github stats count
 - [x] Add github stats for language
-- [ ] Add workflow to get latest blogs from my website
-- [ ] Later Add workflow to get other cool stats
+- [x] Add workflow to get latest blogs from my website
 
 ## Setup Linode Server
 
@@ -49,7 +47,7 @@ I was not able to find more info in logs either.
 
 I tested the same setup on linode and it worked fine. I decided to move to linode so that I can deploy website automatically using GitHub actions.
 
-- [ ] Spin a linode server
-- [ ] TODO...
+- [x] Spin a linode server
+- [x] Transfer the current data from vultr to linode
 
-
+This can be marked as done.
